@@ -1,0 +1,5 @@
+Flask==2.2.2
+python-snappy==0.6.1
+pyarrow==10.0.1
+protobuf==3.19.5
+ply==3.11
